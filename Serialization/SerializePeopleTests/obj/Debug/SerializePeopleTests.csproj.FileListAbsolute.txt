@@ -1,0 +1,2 @@
+C:\Andris\Codecool\NET\SI3\SI3Assignments\Serialization\SerializePeopleTests\obj\Debug\SerializePeopleTests.csprojAssemblyReference.cache
+C:\Andris\Codecool\NET\SI3\SI3Assignments\Serialization\SerializePeopleTests\obj\Debug\SerializePeopleTests.csproj.CoreCompileInputs.cache
